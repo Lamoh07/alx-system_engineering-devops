@@ -1,1 +1,4 @@
-a script that switches the current user to the user betty
+shell permission
+rm 1-who_am_i
+rm -r 1-who_am_i
+shell permission
